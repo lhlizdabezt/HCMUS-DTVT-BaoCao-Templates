@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:0f172a,50:8e44ad,100:2563eb&text=HCMUS%20%E2%80%A2%20DTVT%20%E2%80%A2%20Templates%20%26%20References&fontColor=ffffff&fontSize=28&fontAlignY=42&desc=KLTN%20%E2%80%A2%20BCTT%20%E2%80%A2%20Typst%20Guide%20%E2%80%A2%20Reference%20XLSX&descAlignY=68&descSize=15" alt="Templates banner" />
+  <img src="docs/banner.svg" alt="HCMUS — DTVT — Templates: KLTN + BCTT + Typst Guide + Reference XLSX" width="100%" />
 </p>
 
 <p align="center">
