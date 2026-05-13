@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="HCMUS — DTVT — Templates: KLTN + BCTT + Typst Guide + Reference XLSX" width="100%" />
+  <img src="docs/banner.svg" alt="HCMUS FETEL Templates — KLTN + Internship Report + Typst Guide + Reference XLSX" width="100%" />
 </p>
+
+<h2 align="center">📚 HCMUS FETEL — Templates &amp; References cho KLTN/BCTT 📚</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-VNUHCM%20%E2%80%A2%20HCMUS-003366?style=for-the-badge" alt="University" />
