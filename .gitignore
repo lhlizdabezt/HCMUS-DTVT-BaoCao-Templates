@@ -1,0 +1,13 @@
+# Build outputs from templates (when users compile locally)
+*.pdf
+!HuongDanSoanBai/Typst Guide.pdf
+.typst-cache/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp

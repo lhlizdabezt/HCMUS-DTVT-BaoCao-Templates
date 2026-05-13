@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2026 Lương Hải Long (22207056) — HCMUS FETEL
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+NOTE — Scope of this MIT License:
+The MIT License covers ONLY the README.md, workflow recommendations and any
+original Markdown / metadata in this repository.
+
+Bundled third-party material remains under its original copyright:
+
+  * `HuongDanSoanBai/Huong-dan-ve-khoa-luan-tot-nghiep_*.doc` and
+    `HuongDanSoanBai/Mau-bao-cao-thuc-tap-thuc-te*.doc` — copyright of
+    Faculty of Electronics & Telecommunications, HCMUS (VNUHCM). Mirrored
+    here strictly for internal academic reference of HCMUS students.
+
+  * `HuongDanSoanBai/Typst Guide.pdf` — copyright of the Typst maintainers,
+    distributed under the Apache License 2.0. See https://github.com/typst/typst
+    for the upstream source and full license text.
+
+  * `XLSXThamKhao/BANG MÃ HH MOI 2025.xlsx` and `XLSXThamKhao/DATA BTP.xlsx` —
+    copyright of BTP Holdings. Provided exclusively as cross-reference data
+    for the author's 2026 internship report and may NOT be redistributed
+    commercially.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
