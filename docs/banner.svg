@@ -1,26 +1,47 @@
-
-      <svg
-        width="854"
-        height="200"
-        viewBox="0 0 854 200"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <style>
-      .text {   font-size: 36px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 15px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 854 200"
-        >
-          <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0f172a"/><stop offset="50%" stop-color="#8e44ad"/><stop offset="100%" stop-color="#2563eb"/>
-              </linearGradient>
-            </defs>
-          <rect xmlns="http://www.w3.org/2000/svg"  rx="4.5" height="200" width="100%" fill="url(#linear)" stroke-opacity="1"/>
-        </svg>
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="42%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >HCMUS FETEL Templates</text>
-        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="68%" class="desc" style="fill:#ffffff;">KLTN - Internship Report - Typst Guide - Reference XLSX</text>
-      </svg>
-    
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.42" stop-color="#0f766e"/>
+      <stop offset="0.72" stop-color="#239dad"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <g opacity="0.22">
+    <path d="M-60 245 C150 130 320 270 535 165 C745 62 950 95 1260 38" stroke="#ffffff" stroke-width="16" stroke-linecap="round">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M-60 245 C150 130 320 270 535 165 C745 62 950 95 1260 38;M-60 206 C160 292 325 96 535 165 C760 238 950 125 1260 90;M-60 245 C150 130 320 270 535 165 C745 62 950 95 1260 38"/>
+    </path>
+    <path d="M-40 82 C165 195 352 40 585 138 C840 250 972 80 1245 180" stroke="#e0f2fe" stroke-width="8" stroke-linecap="round">
+      <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M-40 82 C165 195 352 40 585 138 C840 250 972 80 1245 180;M-40 130 C180 38 350 220 585 138 C830 80 990 246 1245 150;M-40 82 C165 195 352 40 585 138 C840 250 972 80 1245 180"/>
+    </path>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="58" y="54" width="1084" height="212" rx="24" fill="#f8fafc" opacity="0.96"/>
+    <rect x="58" y="54" width="1084" height="212" rx="24" stroke="#ffffff" stroke-opacity="0.7"/>
+  </g>
+  <text x="92" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">HCMUS FETEL Report Templates</text>
+  <text x="94" y="156" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">KLTN, BCTT, Typst Guide, reference XLSX, release-ready portfolio assets</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    <rect x="94" y="190" width="164" height="44" rx="14" fill="#0f766e"/>
+    <text x="127" y="218" fill="#ffffff" font-size="18">Word Docs</text>
+    <rect x="278" y="190" width="164" height="44" rx="14" fill="#239dad"/>
+    <text x="317" y="218" fill="#ffffff" font-size="18">Typst PDF</text>
+    <rect x="462" y="190" width="164" height="44" rx="14" fill="#2563eb"/>
+    <text x="504" y="218" fill="#ffffff" font-size="18">XLSX Data</text>
+    <rect x="646" y="190" width="188" height="44" rx="14" fill="#d95319"/>
+    <text x="680" y="218" fill="#ffffff" font-size="18">GitHub Release</text>
+  </g>
+  <g transform="translate(982 82)">
+    <rect x="0" y="0" width="86" height="120" rx="16" fill="#0f172a" opacity="0.94"/>
+    <rect x="16" y="22" width="54" height="10" rx="5" fill="#38bdf8"/>
+    <rect x="16" y="47" width="54" height="10" rx="5" fill="#22c55e"/>
+    <rect x="16" y="72" width="54" height="10" rx="5" fill="#f97316"/>
+    <circle cx="43" cy="102" r="7" fill="#e0f2fe">
+      <animate attributeName="r" dur="1.8s" repeatCount="indefinite" values="6;10;6"/>
+    </circle>
+  </g>
+</svg>

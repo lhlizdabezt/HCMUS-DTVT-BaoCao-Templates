@@ -2,8 +2,10 @@
 *.pdf
 !HuongDanSoanBai/Typst Guide.pdf
 .typst-cache/
+*.log
+*.aux
 
-# IDE & OS
+# IDE and OS
 .vscode/
 .idea/
 .DS_Store
@@ -11,3 +13,7 @@ Thumbs.db
 desktop.ini
 ~$*
 *.tmp
+
+# Tooling
+node_modules/
+__pycache__/
