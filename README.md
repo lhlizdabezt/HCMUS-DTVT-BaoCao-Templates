@@ -5,6 +5,10 @@
   <a href="https://github.com/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates/tags"><img src="https://img.shields.io/github/v/tag/lhlizdabezt/HCMUS-DTVT-BaoCao-Templates?style=for-the-badge&logo=git&label=Tag" alt="Latest tag for HCMUS-DTVT-BaoCao-Templates" /></a>
   <img src="https://img.shields.io/badge/Portfolio-English%20review%20ready-0f766e?style=for-the-badge" alt="English portfolio ready" />
 </p>
+<p align="center">
+  <img src="assets/portfolio-motion.svg" alt="Animated engineering portfolio visual for HCMUS-DTVT-BaoCao-Templates" width="100%" />
+</p>
+
 
 ## Overview
 
