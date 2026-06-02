@@ -1,22 +1,17 @@
-# Release v1.1.0 - HCMUS DTVT report templates
+# English Portfolio Refresh
 
-## Điểm mới
+## Main updates
 
-- Viết lại README bằng tiếng Việt theo hướng portfolio kỹ thuật, có bảng nội dung, luồng sử dụng và ranh giới học thuật.
-- Thêm GIF motion tự host ở `assets/hcmus-template-motion.gif`.
-- Làm mới banner `docs/banner.svg`, giữ chữ trong SVG ở dạng ASCII để tránh lỗi hiển thị dấu tiếng Việt.
-- Đổi tên file XLSX sang đường dẫn ASCII ổn định: `BANG_MA_HH_MOI_2025.xlsx` và `DATA_BTP.xlsx`.
-- Thêm `.gitattributes` để quản lý text/binary rõ ràng hơn.
-- Cập nhật metadata GitHub: description, homepage và topics phục vụ HR/engineering review.
+- Rewrote the public README in English for HR and engineering review.
+- Standardized the repository summary, reviewer map, evidence highlights, scope boundaries and release/tag links.
+- Preserved an evidence-first tone: clear technical nouns, bounded claims and no production ownership beyond the repository material.
 
-## Bộ tài liệu trong release
+## Repository evidence
 
-- Mẫu khóa luận tốt nghiệp HCMUS/FETEL dạng `.doc`.
-- Mẫu báo cáo thực tập thực tế HCMUS/FETEL dạng `.doc`.
-- `Typst Guide.pdf` để hỗ trợ chuyển báo cáo từ Word sang Typst.
-- Hai file XLSX tham khảo cho bối cảnh BTP Holdings.
-- README tiếng Việt, banner SVG, GIF motion và link sang repo BCTT đã triển khai bằng Typst.
+- Thesis and internship report template references.
+- Typst Guide PDF and Word-to-Typst workflow notes.
+- Reference spreadsheet and release assets.
 
-## Ghi chú phạm vi
+## Scope
 
-Repo này đóng vai trò bộ mẫu và tài liệu tham khảo. Người dùng vẫn cần đối chiếu quy định mới nhất từ Khoa trước khi nộp báo cáo chính thức.
+Template and documentation workflow repository. It supports academic formatting and report production, not a single engineering experiment.
